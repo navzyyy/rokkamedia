@@ -121,17 +121,17 @@ body > footer {
 }
 
 #tiktok {
-    font-size: 24px;
+    font-size: 20px;
     color: #3007ff;
 }
 
 #whatsapp {
-    font-size: 24px;
+    font-size: 20px;
     color: rgb(10, 139, 10);
 }
 
 #instagram {
-    font-size: 24px;
+    font-size: 20px;
     color: rgb(243, 23, 206);
 }
 
@@ -143,10 +143,10 @@ span {
 }
 
 .button:hover {
-    width: 250px;
+    width: 150px;
     border-radius: 5px;
 }
 
 .button:hover span {
-    width: 200px;
+    width: 150px;
 }
